@@ -1,0 +1,27 @@
+{
+  "name": "boleicons",
+  "version": "1.0.0",
+  "description": "Icons for personal use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/insideode/boleicons#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insideode/boleicons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/insideode/boleicons/issues"
+  },
+  "keywords": [
+    "icons",
+    "svg",
+    "bole",
+    "boletronic",
+    "botic",
+    "sinisa"
+  ],
+  "author": "Sinisa Botic",
+  "license": "ISC"
+}
